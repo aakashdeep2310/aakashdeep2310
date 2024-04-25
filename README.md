@@ -1,4 +1,4 @@
-![logo](https://github.com/SuBHransHuG/SuBHransHuG/blob/main/To%20My%20github.gif)
+![logo](https://user-images.githubusercontent.com/63905637/145709095-4f7e73cb-e52e-44fa-99a5-58a96ac4ff0c.gif)
 <h1 align="center">Hi 👋, I'm Aakash Deep</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" align = "right" width="400px">
