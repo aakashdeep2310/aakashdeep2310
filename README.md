@@ -24,8 +24,8 @@
 <a href="https://linkedin.com/in/deepaakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aakash Deep" height="30" width="40" /></a>
 <a href="https://instagram.com/theknightblood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theknightblood" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/aakashdeep2310" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aakashdeep2310" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/aakashdeep2310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aakashdeep2310" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rjaakashdeep007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rjaakashdeep007" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/12321166_aakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="12321166_aakash" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/aakashdeep2310/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aakashdeep2310" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/rjaakashdeep007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rjaakashdeep007" height="30" width="40" /></a>
 </p>
 
