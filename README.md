@@ -94,13 +94,21 @@ I'm always hungry to learn and grow, because in this field, there's always somet
       <img src="https://skillicons.dev/icons?i=java" alt="icon" width="55" height="55" />
       <br>Java
     </td>
-     <td align="center" widht="90">
+     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=cpp" width="55" height="55" alt="MongoDB" />
+      <br>C++
+    </td>
+    <td align="center" widht="90">
       <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="55" height="55" />
       <br>Node JS
     </td>
-      <td align="center" widht="90">
+    <td align="center" widht="90">
       <img src="https://skillicons.dev/icons?i=react" alt="icon" width="55" height="55" />
       <br>React Js
+    </td>
+     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" alt="md" />
+      <br>Tailwind CSS
     </td>
 
     
@@ -135,26 +143,43 @@ I'm always hungry to learn and grow, because in this field, there's always somet
       <img src="https://skillicons.dev/icons?i=opencv" alt="icon" width="55" height="55" />
       <br>Open CV
     </td> -->
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=cpp" width="55" height="55" alt="MongoDB" />
-      <br>C++
-    </td>
+   
 <!--     <td align="center" widht=90>
       <img src="https://skillicons.dev/icons?i=python" alt="icon" width="55" height="55" />
       <br>Python
     </td> -->
-    <td align="center" widht=90>
+     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=md" width="55" height="55" alt="linux" />
+      <br>Doc's
+    </td>
+    
+   
+  <td align="center" widht=90>
+      <img src="https://skillicons.dev/icons?i=bootstrap" alt="icon" width="55" height="55" />
+      <br>Bootstrap
+    </td>
+  <td align="center" widht=90>
       <img src="https://skillicons.dev/icons?i=linux" alt="icon" width="55" height="55" />
       <br>Linux
     </td>
-<!--     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=md" width="55" height="55" alt="linux" />
-      <br>Doc's
-    </td> -->
-    <td align="center" width="90">
+  
+  <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt="md" />
       <br>Git
     </td>
+     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=github" width="55" height="55" alt="md" />
+      <br>Git Hub
+    </td>
+     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" alt="md" />
+      <br>VS Code
+    </td>
+     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vite" width="55" height="55" alt="md" />
+      <br>Vite
+    </td>
+    
   </tr>
 </table>
 
