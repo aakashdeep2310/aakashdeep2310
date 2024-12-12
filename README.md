@@ -78,48 +78,61 @@ I'm always hungry to learn and grow, because in this field, there's always somet
 
 <table align="center" class="table table-dark">
   <tr bg-dark>
-    <td align="center" widht="90">
+<!--     <td align="center" widht="90">
       <img src="https://skillicons.dev/icons?i=flutter" alt="icon" width="55" height="55" />
       <br>Flutter
-    </td>
-    <td align="center" widht="90">
+    </td> -->
+<!--     <td align="center" widht="90">
       <img src="https://skillicons.dev/icons?i=django" alt="icon" width="55" height="55" />
       <br>Django
-    </td>
+    </td> -->
     <td align="center" widht="90">
       <img src="https://skillicons.dev/icons?i=js" alt="icon" width="55" height="55" />
       <br>Javascript
     </td>
-    <td align="center" width="90">
+    <td align="center" widht="90">
+      <img src="https://skillicons.dev/icons?i=java" alt="icon" width="55" height="55" />
+      <br>Java
+    </td>
+    <td align="center" widht="90">
+      <img src="https://skillicons.dev/icons?i=cplusplus" alt="icon" width="55" height="55" />
+      <br>C++
+    </td>
+     <td align="center" widht="90">
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="55" height="55" />
+      <br>Node JS
+    </td>
+    
+<!--     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=ts" alt="icon" width="55" height="55" />
       <br>Typescript
-    </td>
-    <td align="center" width="90">
+    </td> -->
+<!--     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="55" height="55" />
       <br>Next Js
-    </td>
+    </td> -->
     <td align="center" widht="90">
       <img src="https://skillicons.dev/icons?i=react" alt="icon" width="55" height="55" />
       <br>React Js
     </td>
-    <td align="center" width="90">
+<!--     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=flask" alt="icon" width="55" height="55" />
       <br>Flask
-    </td>
-    <td align="center" width="90">
+    </td> -->
+<!--     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=threejs" width="55" height="55" alt="icon" />
       <br>Three Js
-    </td>
+    </td> -->
   </tr>
   <tr>
-     <td align="center" width="90">
+<!--      <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=tensorflow" alt="icon" width="55" height="55" />
       <br>Tensorflow
-    </td>
-    <td align="center" width="90">
+    </td> -->
+<!--     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=pytorch" alt="icon" width="55" height="55" />
       <br>Pytorch
-    </td>
+    </td> -->
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=opencv" alt="icon" width="55" height="55" />
       <br>Open CV
@@ -128,10 +141,10 @@ I'm always hungry to learn and grow, because in this field, there's always somet
       <img src="https://skillicons.dev/icons?i=cpp" width="55" height="55" alt="MongoDB" />
       <br>C++
     </td>
-    <td align="center" widht=90>
+<!--     <td align="center" widht=90>
       <img src="https://skillicons.dev/icons?i=python" alt="icon" width="55" height="55" />
       <br>Python
-    </td>
+    </td> -->
     <td align="center" widht=90>
       <img src="https://skillicons.dev/icons?i=linux" alt="icon" width="55" height="55" />
       <br>Linux
