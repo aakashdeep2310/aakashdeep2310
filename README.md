@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **DSA in Java, JavaScript, React, Tailwind CSS**
 
+- 💻 You can see my **Portfolio** [https://aakashdeep007.netlify.app/](https://aakashdeep007.netlify.app/)
+
 - 👨‍💻 All of my projects are available at [https://github.com/aakashdeep2310](https://github.com/aakashdeep2310)
 
 - 📝 I regularly write articles on [https://www.blogger.com/blog/posts/7925960113455051139?hl=en-GB&tab=jj](https://www.blogger.com/blog/posts/7575681797812610958)
