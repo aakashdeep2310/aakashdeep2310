@@ -148,10 +148,7 @@ I'm always hungry to learn and grow, because in this field, there's always somet
       <img src="https://skillicons.dev/icons?i=python" alt="icon" width="55" height="55" />
       <br>Python
     </td> -->
-     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=md" width="55" height="55" alt="linux" />
-      <br>Doc's
-    </td>
+    
     
    
   <td align="center" widht=90>
